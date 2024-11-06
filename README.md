@@ -1,5 +1,5 @@
 ### Hello and welcome to my Github, this is Hugo 👋
-- I am a physician/scientist and currently a Postdoctoral Research Fellow at Epi department at Dartmouth.
+- I am a Postdoctoral Research Fellow at Epi department at Dartmouth.
 - I am studying the intersection between metabolic health and cancer risk. 
 - I aim to investigate the contributions of genetics and exposome (environment) using causal inference methods.
 - I’m currently working on GxE: a gene-environment interaction between genetic susceptibility and arsenic exposure using polygenic scores (PGS) associated with bladder cancer and xenobiotic metabolism.
